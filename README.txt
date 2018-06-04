@@ -18,6 +18,8 @@ Sample Input:
 Output Specification:
   The result will be shown in the left frame, and the optimal answer will be shown in the right frame.
 
-Note that the executable file is in "TexturePacking Realease" directory.
-
 We love you!! ~*^o^*~
+
+
+Note: that the executable file is in "TexturePacking Realease" directory.
+This is a nonformal README file written by my group member. I decide to rewrite it later but now at present(partly because my laziness).
