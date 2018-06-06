@@ -21,5 +21,5 @@ Output Specification:
 We love you!! ~*^o^*~
 
 
-Note: that the executable file is in "TexturePacking Realease" directory.
-This is a nonformal README file written by my group member. I decide to rewrite it later but now at present(partly because my laziness).
+Note: The executable file is in directory "TexturePacking Realease".
+This is a nonformal README file written by my group member. I decide to rewrite it later but no at present(partly because my laziness).
