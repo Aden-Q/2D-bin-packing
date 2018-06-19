@@ -22,4 +22,4 @@ We love you!! ~*^o^*~
 
 
 Note: The executable file is in directory "TexturePacking Realease".
-This is a nonformal README file written by my group member. I decide to rewrite it later but no at present(partly because my laziness).
+This is a nonformal README file written by my group member. I decide to rewrite it later but not at present(partly because of my laziness).
