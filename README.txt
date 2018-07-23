@@ -21,5 +21,6 @@ Output Specification:
 We love you!! ~*^o^*~
 
 
+"Advance data structure" course project
 Note: The executable file is in directory "TexturePacking Realease".
 This is a nonformal README file written by my group member. I decide to rewrite it later but not at present(partly because of my laziness).
