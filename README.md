@@ -9,10 +9,4 @@ Approximation algorithm to solve the NP-C **Strip Packing Problem**.
 
 ## Group Member
 
-Hongli Meng, Juntao Ji
-
-
-
-## Credits
-
-Zecheng Qian
+Zecheng Qian, Hongli Meng, Juntao Ji
